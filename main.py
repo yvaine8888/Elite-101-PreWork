@@ -7,7 +7,7 @@ age = int(age)
 if age < 15:
     print(f'Oh, to be {age} again.')
 elif age < 18:
-    print(f"You're {age}?") 
+    print(f"You're {age}? Good luck.") 
 elif age < 55:
     print(f"You're {age}? Wow...")
 elif age < 120:
